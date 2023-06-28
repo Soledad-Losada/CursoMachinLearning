@@ -6,7 +6,8 @@
         operadores de comparación. 
 - Sole M5 - 03 - Bucles:
         for, while, iterar con for, bucles anidados.
-06_27 ML
+  
+27_06 Machin Learning
 - Sole M4 - 10 - Pandas:
         ejercicios de dataFrame con Pandas
 - Sole SpaceX - 1 - Data Collection Api v2
