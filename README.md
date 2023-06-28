@@ -1,4 +1,4 @@
-# CursoMachinLearning
+# CursoMachineLearning
 26_06 DIA, tres archivos de subida:
 - Sole M5 - 01 - Python Notebook: 
         tipos de datos, listas, operadores, condiciones, bucles, funciones, diccionarios, cadena; generadores. 
