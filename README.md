@@ -1,11 +1,11 @@
 # CursoMachineLearning
-26_06 DIA, tres archivos de subida:
+26_06 DIA, 2 archivos de subida:
 - Sole M5 - 01 - Python Notebook: 
         tipos de datos, listas, operadores, condiciones, bucles, funciones, diccionarios, cadena; generadores. 
 - Sole M5- 02 - Condicionales:
         operadores de comparación. 
   
-27_06 Machine Learning 2 arch de subida:
+27_06 Machine Learning 3 archivos de subida:
 - Sole M4 - 10 - Pandas:
         ejercicios de dataFrame con Pandas
 - Sole M5 - 03 - Bucles:
