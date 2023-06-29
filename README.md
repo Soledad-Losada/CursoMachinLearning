@@ -4,12 +4,12 @@
         tipos de datos, listas, operadores, condiciones, bucles, funciones, diccionarios, cadena; generadores. 
 - Sole M5- 02 - Condicionales:
         operadores de comparación. 
-- Sole M5 - 03 - Bucles:
-        for, while, iterar con for, bucles anidados.
   
 27_06 Machine Learning 2 arch de subida:
 - Sole M4 - 10 - Pandas:
         ejercicios de dataFrame con Pandas
+- Sole M5 - 03 - Bucles:
+        for, while, iterar con for, bucles anidados.
 - Sole SpaceX - 1 - Data Collection Api v2
         Obtención de datos, una GET request a la API de SpaceX. Tambien cierto data wrangling básico y limpieza de datos.
 
